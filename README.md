@@ -1,4 +1,4 @@
-# Aula 2 - IAC com Vagrant e Ansible
+# IAC com Vagrant e Ansible
 
 Neste repositório, vamos aprender a usar o Vagrant e o Ansible para criar e gerenciar máquinas virtuais.
 Também vamos aprender a usar o Ansible para fazer o deploy do site "mundo invertido"
